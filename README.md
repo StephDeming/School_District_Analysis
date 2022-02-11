@@ -5,6 +5,8 @@
 Going through high school data for an entire school district to break down and organize the information into more decipherable and usable data for review(including school size, class size, academic performance in reading and math and budgets).
 The initial work revealed possible academic dishonesty among the 9th Grade stuudents at Thomas High School and thus the data was reviewed, cleaned and reworked. 
 
+## Software
+Pandas (including NumPy), JupyterLab
 
 ## Analysis
 
